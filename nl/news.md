@@ -9,7 +9,7 @@ permalink: /nl/news/
 {% for item in items %}
   <li>
     <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-    <div class="meta">{{ item.date | date: "%-d %B %Y" }}</div>
+    <div class="meta">{% include localized-date.html date=item.date lang=page.lang %}</div>
     <p>{{ item.excerpt }}</p>
   </li>
 {% endfor %}

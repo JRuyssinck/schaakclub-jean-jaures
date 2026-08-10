@@ -1,4 +1,8 @@
-{% assign other = site.pages | where: "lang_ref", page.lang_ref | where_exp: "item", "item.lang != page.lang" | first %}
+{% assign other = nil %}
+{% if page.lang_ref %}
+  {% assign candidates = site.pages | concat: site.news %}
+  {% assign other = candidates | where: "lang_ref", page.lang_ref | where_exp: "item", "item.lang != page.lang" | first %}
+{% endif %}
 <span class="lang-switch">
   {% if other %}
     <a href="{{ other.url | relative_url }}">{% if page.lang == 'nl' %}English{% else %}Nederlands{% endif %}</a>
