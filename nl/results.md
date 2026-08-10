@@ -9,7 +9,7 @@ permalink: /nl/results/
     <tr><th>Seizoen</th><th>Afdeling</th><th>Ronde</th><th>Tegenstander</th><th>Score</th></tr>
   </thead>
   <tbody>
-  {% assign items = site.results | sort: "round" %}
+  {% assign items = site.results | sort: "sort_key" | reverse %}
   {% for item in items %}
     <tr>
       <td>{{ item.season }}</td>

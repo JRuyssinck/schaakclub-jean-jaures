@@ -24,7 +24,11 @@ Create one file — results aren't translated (season/opponent/score are languag
 
     _results/<season>-r<round>.md
 
-Front matter: `season`, `division`, `round`, `opponent`, `score`.
+Front matter: `season`, `division`, `round`, `opponent`, `score`, `sort_key`.
+
+`sort_key` controls display order (not `round`, which is ignored for sorting): format is
+`<season>-<round zero-padded to 2 digits>`, e.g. `2025-2026-01`. This lets results be sorted
+correctly across multiple seasons, newest first.
 
 ## Add a gallery photo
 
