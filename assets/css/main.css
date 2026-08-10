@@ -3,6 +3,7 @@
   --color-cream: #f2ead9;
   --color-sage: #8a9a5b;
   --color-brass: #b08d57;
+  --color-brass-dark: #7a5c2e;
   --font-heading: Georgia, "Times New Roman", serif;
   --font-body: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
 }
@@ -19,7 +20,7 @@ body {
 
 h1, h2, h3 { font-family: var(--font-heading); color: var(--color-walnut); }
 
-a { color: var(--color-brass); text-decoration: none; }
+a { color: var(--color-brass-dark); text-decoration: underline; }
 a:hover { text-decoration: underline; }
 
 .container { max-width: 960px; margin: 0 auto; padding: 0 1rem; }
@@ -53,7 +54,7 @@ a:hover { text-decoration: underline; }
 
 .news-list { list-style: none; padding: 0; }
 .news-list li { margin-bottom: 1.5rem; }
-.news-list .meta { color: var(--color-brass); font-size: .85rem; }
+.news-list .meta { color: var(--color-brass-dark); font-size: .85rem; }
 
 .gallery-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: .5rem; list-style: none; padding: 0; }
 .gallery-grid img { width: 100%; border-radius: 4px; display: block; }
