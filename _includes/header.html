@@ -1,0 +1,9 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="{% if page.lang == 'en' %}{{ "/en/" | relative_url }}{% else %}{{ "/nl/" | relative_url }}{% endif %}">
+      <img src="{{ "/assets/img/logo/jeanjaures_logo_small.gif" | relative_url }}" alt="Schaakclub Jean Jaurès" class="brand-logo">
+      <span>Schaakclub Jean Jaurès</span>
+    </a>
+    {% include nav.html %}
+  </div>
+</header>

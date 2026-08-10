@@ -1,0 +1,21 @@
+<nav class="site-nav">
+  {% assign l = page.lang | default: 'nl' %}
+  {% if l == 'nl' %}
+    <a href="{{ "/nl/" | relative_url }}">Home</a>
+    <a href="{{ "/nl/about/" | relative_url }}">Over ons</a>
+    <a href="{{ "/nl/schedule/" | relative_url }}">Wanneer &amp; Waar</a>
+    <a href="{{ "/nl/news/" | relative_url }}">Nieuws</a>
+    <a href="{{ "/nl/gallery/" | relative_url }}">Foto's</a>
+    <a href="{{ "/nl/results/" | relative_url }}">Resultaten</a>
+    <a href="{{ "/nl/join/" | relative_url }}">Lid worden</a>
+  {% else %}
+    <a href="{{ "/en/" | relative_url }}">Home</a>
+    <a href="{{ "/en/about/" | relative_url }}">About</a>
+    <a href="{{ "/en/schedule/" | relative_url }}">When &amp; Where</a>
+    <a href="{{ "/en/news/" | relative_url }}">News</a>
+    <a href="{{ "/en/gallery/" | relative_url }}">Gallery</a>
+    <a href="{{ "/en/results/" | relative_url }}">Results</a>
+    <a href="{{ "/en/join/" | relative_url }}">Join</a>
+  {% endif %}
+  {% include lang-switcher.html %}
+</nav>

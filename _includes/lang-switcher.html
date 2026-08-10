@@ -1,0 +1,10 @@
+{% assign other = site.pages | where: "lang_ref", page.lang_ref | where_exp: "item", "item.lang != page.lang" | first %}
+<span class="lang-switch">
+  {% if other %}
+    <a href="{{ other.url | relative_url }}">{% if page.lang == 'nl' %}English{% else %}Nederlands{% endif %}</a>
+  {% elsif page.lang == 'nl' %}
+    <a href="{{ "/en/" | relative_url }}">English</a>
+  {% else %}
+    <a href="{{ "/nl/" | relative_url }}">Nederlands</a>
+  {% endif %}
+</span>
