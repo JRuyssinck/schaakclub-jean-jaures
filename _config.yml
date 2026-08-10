@@ -1,0 +1,40 @@
+title: "Schaakclub Jean Jaurès"
+description: "De schaakclub van Gent sinds 1945"
+baseurl: "/schaakclub-jean-jaures"
+url: "https://jruyssinck.github.io"
+
+collections:
+  news:
+    output: true
+    permalink: /:collection/:path/
+  results:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: "nl"
+    values:
+      lang: nl
+  - scope:
+      path: "en"
+    values:
+      lang: en
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: news-item
+  - scope:
+      path: ""
+      type: "results"
+    values:
+      layout: none
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - docs
+  - vendor
+  - node_modules
