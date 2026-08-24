@@ -8,7 +8,7 @@ We spelen elke **dinsdagavond** in de IVG-school, Kazernenstraat 16, 9000 Gent. 
 interclubwedstrijden worden hier gespeeld.
 
 <iframe
-  src="https://www.openstreetmap.org/export/embed.html?bbox=3.7205%2C51.0430%2C3.7305%2C51.0490&layer=mapnik&marker=51.0460%2C3.7255"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=3.7191003%2C51.0402338%2C3.7291003%2C51.0462338&layer=mapnik&marker=51.0432338%2C3.7241003"
   width="100%" height="300" style="border:1px solid var(--color-brass)" title="Kaart">
 </iframe>
 
