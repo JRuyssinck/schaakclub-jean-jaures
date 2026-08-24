@@ -1,7 +1,7 @@
 title: "Schaakclub Jean Jaurès"
 description: "De schaakclub van Gent sinds 1945"
-baseurl: "/schaakclub-jean-jaures"
-url: "https://jruyssinck.github.io"
+baseurl: ""
+url: "https://scjeanjaures.be"
 theme: null
 
 collections:
