@@ -4,6 +4,7 @@ title: Results
 lang_ref: results
 permalink: /en/results/
 ---
+<div class="table-scroll">
 <table class="results">
   <thead>
     <tr><th>Season</th><th>Division</th><th>Round</th><th>Opponent</th><th>Score</th></tr>
@@ -21,3 +22,4 @@ permalink: /en/results/
   {% endfor %}
   </tbody>
 </table>
+</div>

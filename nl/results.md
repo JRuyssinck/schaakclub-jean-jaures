@@ -4,6 +4,7 @@ title: Resultaten
 lang_ref: results
 permalink: /nl/results/
 ---
+<div class="table-scroll">
 <table class="results">
   <thead>
     <tr><th>Seizoen</th><th>Afdeling</th><th>Ronde</th><th>Tegenstander</th><th>Score</th></tr>
@@ -21,3 +22,4 @@ permalink: /nl/results/
   {% endfor %}
   </tbody>
 </table>
+</div>
