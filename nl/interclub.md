@@ -34,17 +34,6 @@ voor de locatie. Bij uitwedstrijden speel je bij de tegenstander.
 
 <p><small>* Ronde 1: beide ploegen spelen uit, op dezelfde locatie (bij De Mercatel).</small></p>
 
-<div id="results-gate" class="results-gate" data-hash="af83146faaac21dfa259691c4583c0540d78e14c993f7ee5bc27ecf5ab5bdecb">
-  <p>De stand en de detailuitslagen zijn enkel voor clubleden. Vraag het wachtwoord aan een bestuurslid.</p>
-  <form id="results-gate-form">
-    <input type="password" id="results-gate-input" placeholder="Wachtwoord" required>
-    <button type="submit">Inloggen</button>
-    <p id="results-gate-error" class="gate-error" hidden></p>
-  </form>
-</div>
-
-<div id="results-content" hidden>
-
 <h2>Stand</h2>
 
 <p><em>Het seizoen is nog niet gestart — onderstaande stand toont de deelnemende ploegen, nog
@@ -116,7 +105,4 @@ zonder punten. Wordt bijgewerkt na elke speeldag.</em></p>
 </table>
 </div>
 
-</div>
-
-<script src="{{ "/assets/js/results-gate.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/highlight-next.js" | relative_url }}"></script>
