@@ -4,6 +4,8 @@ title: Schaakclub Jean Jaurès
 tagline: Ghent's friendliest chess club, since 1945.
 lang_ref: home
 permalink: /en/
+cta_text: Play café chess or online? Come by sometime →
+cta_url: /en/for-casual-players/
 ---
 Welcome! Schaakclub Jean Jaurès is a friendly, low-pressure chess club in Ghent — a great
 next step if you enjoy playing online or at a chess table in a bar, and want to try playing

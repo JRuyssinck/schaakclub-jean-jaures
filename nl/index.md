@@ -4,6 +4,8 @@ title: Schaakclub Jean Jaurès
 tagline: De gezelligste schaakclub van Gent, al sinds 1945.
 lang_ref: home
 permalink: /nl/
+cta_text: Speel je café-schaak of online? Kom eens langs →
+cta_url: /nl/voor-cafeschakers/
 ---
 Welkom! Schaakclub Jean Jaurès is een gezellige, laagdrempelige schaakclub in Gent — ideaal
 als je graag online speelt of af en toe aan een schaaktafeltje in een café zit, en het wel

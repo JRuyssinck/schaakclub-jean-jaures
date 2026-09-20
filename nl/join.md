@@ -11,3 +11,7 @@ ontspannen sfeer.
 Kom gewoon eens langs op een [clubavond]({{ "/nl/schedule/" | relative_url }}), of neem
 vooraf contact op via **[scjeanjaures@gmail.com](mailto:scjeanjaures@gmail.com)** voor meer
 info over lidgeld en werking.
+
+Speel je vooral café-schaak of online, en wil je eerst weten wat je kan verwachten? Lees dan
+[hier meer]({{ "/nl/voor-cafeschakers/" | relative_url }}) — geen lid worden nodig om eens te
+komen kijken.
