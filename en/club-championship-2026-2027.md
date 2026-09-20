@@ -6,6 +6,19 @@ permalink: /en/club-championship-2026-2027/
 ---
 Group draw for this season's club championship.
 
+## Upcoming games
+
+### Tuesday 22/9
+
+**Group A**
+- Eric Van De Wynkele - Tibo Maes
+- Lieven Van Der Straeten - Gert Van Rij
+- Gert Cant - Kurt Vanhauwaert
+
+**Group B**
+- Joeri Ruyssinck - Frank D'hooge
+- Henri Lemahieu - Oreste Lalli
+
 ## Group A
 
 <div class="table-scroll">

@@ -1,0 +1,19 @@
+# Starter set of well-known, verified positions for the homepage
+# "Stelling van de dag" / "Position of the day" widget. One is picked
+# deterministically per calendar day (see assets/js/puzzle-of-the-day.js) --
+# add more entries any time to grow the rotation.
+- fen: "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4"
+  caption_nl: "Wit aan zet — mat in 1 (het \"schoolmat\")"
+  caption_en: "White to move — mate in 1 (\"Scholar's Mate\")"
+  solution_nl: "Dxf7# — mat"
+  solution_en: "Qxf7# — checkmate"
+- fen: "rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2"
+  caption_nl: "Zwart aan zet — mat in 1 (het \"zottenmat\", snelst mogelijke mat)"
+  caption_en: "Black to move — mate in 1 (\"Fool's Mate\", the fastest possible checkmate)"
+  solution_nl: "Dh4# — mat"
+  solution_en: "Qh4# — checkmate"
+- fen: "6k1/5ppp/8/8/8/8/5PPP/3R2K1 w - - 0 1"
+  caption_nl: "Wit aan zet — mat in 1 (klassiek mat op de achterste rij)"
+  caption_en: "White to move — mate in 1 (classic back-rank mate)"
+  solution_nl: "Td8# — mat"
+  solution_en: "Rd8# — checkmate"

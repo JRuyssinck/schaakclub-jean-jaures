@@ -13,3 +13,12 @@ in person without too much competitive pressure.
 
 Come by for a [club evening]({{ "/en/schedule/" | relative_url }}), or read more
 [about our club]({{ "/en/about/" | relative_url }}).
+
+## Coming up
+
+- **Club Championship:** next games on Tuesday 22/9 —
+  [see the pairings]({{ "/en/club-championship-2026-2027/" | relative_url }}).
+- **Interclub:** next match on Sunday 27/9, away at De Mercatel's —
+  [see the calendar]({{ "/en/interclub/" | relative_url }}).
+
+{% include puzzle-of-the-day.html %}

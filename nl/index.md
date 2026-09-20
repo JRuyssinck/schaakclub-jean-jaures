@@ -13,3 +13,12 @@ eens in het echt en zonder al te veel druk wil proberen.
 
 Kom gerust eens langs op een [clubavond]({{ "/nl/schedule/" | relative_url }}), of lees meer
 [over onze club]({{ "/nl/about/" | relative_url }}).
+
+## Binnenkort
+
+- **Clubkampioenschap:** eerstvolgende partijen op dinsdag 22/9 —
+  [bekijk de paringen]({{ "/nl/clubkampioenschap-2026-2027/" | relative_url }}).
+- **Interclub:** eerstvolgende wedstrijd op zondag 27/9, uit bij De Mercatel —
+  [bekijk de kalender]({{ "/nl/interclub/" | relative_url }}).
+
+{% include puzzle-of-the-day.html %}
