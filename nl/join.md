@@ -9,9 +9,11 @@ af en toe een partijtje in een café speelt en het wel eens "in het echt" wil pr
 ontspannen sfeer.
 
 Kom gewoon eens langs op een [clubavond]({{ "/nl/schedule/" | relative_url }}), of neem
-vooraf contact op via **[scjeanjaures@gmail.com](mailto:scjeanjaures@gmail.com)** voor meer
-info over lidgeld en werking.
+vooraf contact op via **{% include protected-email.html %}** voor meer info over lidgeld en
+werking.
 
 Speel je vooral café-schaak of online, en wil je eerst weten wat je kan verwachten? Lees dan
 [hier meer]({{ "/nl/voor-cafeschakers/" | relative_url }}) — geen lid worden nodig om eens te
 komen kijken.
+
+<script src="{{ "/assets/js/protect-email.js" | relative_url }}"></script>

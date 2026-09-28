@@ -9,9 +9,11 @@ mostly plays online or occasionally at a bar and wants to try it "for real," in 
 atmosphere.
 
 Just drop by a [club evening]({{ "/en/schedule/" | relative_url }}), or reach out beforehand
-via **[scjeanjaures@gmail.com](mailto:scjeanjaures@gmail.com)** for details on membership
-fees and how things work.
+via **{% include protected-email.html %}** for details on membership fees and how things
+work.
 
 Mostly play café chess or online, and want to know what to expect first? Read
 [more here]({{ "/en/for-casual-players/" | relative_url }}) — no need to become a member just
 to come check it out.
+
+<script src="{{ "/assets/js/protect-email.js" | relative_url }}"></script>
