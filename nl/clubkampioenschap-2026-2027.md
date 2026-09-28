@@ -6,18 +6,27 @@ permalink: /nl/clubkampioenschap-2026-2027/
 ---
 Reeksindeling voor het clubkampioenschap van dit seizoen.
 
-## Eerstvolgende partijen
-
-### Dinsdag 22/9
+## Uitslagen 22/9
 
 **Reeks A**
-- Eric Van De Wynkele - Tibo Maes
-- Lieven Van Der Straeten - Gert Van Rij
-- Gert Cant - Kurt Vanhauwaert
+- Xander Pauwels - Tibo Maes: ½ - ½
+- Lieven Van Der Straeten - Gert Van Rij: 0 - 1
 
 **Reeks B**
-- Joeri Ruyssinck - Frank D'hooge
-- Henri Lemahieu - Oreste Lalli
+- Henri Lemahieu - Oreste Lalli: 0 - 1
+- Joeri Ruyssinck - Frank D'hooge: ½ - ½
+
+## Eerstvolgende partijen
+
+### Dinsdag 29/9
+
+**Reeks A**
+- Yordi De Block - Xander Pauwels
+- Kurt Vanhauwaert - Gert Cant
+
+**Reeks B**
+- Koen Vandevelde - Frank D'hooge
+- Senne Meuleman - Henri Lemahieu
 
 ## Reeks A
 

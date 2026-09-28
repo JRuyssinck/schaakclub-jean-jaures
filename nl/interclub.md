@@ -36,27 +36,26 @@ voor de locatie. Bij uitwedstrijden speel je bij de tegenstander.
 
 <h2>Stand</h2>
 
-<p><em>Het seizoen is nog niet gestart — onderstaande stand toont de deelnemende ploegen, nog
-zonder punten. Wordt bijgewerkt na elke speeldag.</em></p>
+<p><em>Bijgewerkt na ronde 1.</em></p>
 
 <h3>Afdeling 2A</h3>
 
 <div class="table-scroll">
 <table class="results">
-  <thead><tr><th>#</th><th>Ploeg</th><th>G</th><th>W</th><th>R</th><th>V</th><th>Bordpunten</th><th>Matchpunten</th></tr></thead>
+  <thead><tr><th>#</th><th>Ploeg</th><th>MP</th><th>BP</th></tr></thead>
   <tbody>
-    <tr><td>1</td><td>109 Borgerhout 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>2</td><td>472 de Mercatel 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>3</td><td>174 Brasschaat 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>4</td><td>401 KGSRL 2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>5</td><td>462 Zottegem 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>6</td><td>261 Gambiet Opwijk 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>7</td><td>301 KOSK 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>8</td><td>432 Wetteren 2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>9</td><td>124 Deurne 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>10</td><td>244 Brussels 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr class="own-team"><td>11</td><td>402 Jean Jaures Gent 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>12</td><td>436 LSV-Chesspirant 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+    <tr><td>1</td><td>de Mercatel 1</td><td>2</td><td>5</td></tr>
+    <tr><td>2</td><td>KGSRL 2</td><td>2</td><td>5</td></tr>
+    <tr><td>3</td><td>Borgerhout 1</td><td>2</td><td>4.5</td></tr>
+    <tr><td>4</td><td>Brussels 1</td><td>2</td><td>4.5</td></tr>
+    <tr><td>5</td><td>Zottegem 1</td><td>1</td><td>4</td></tr>
+    <tr><td>6</td><td>Gambiet Opwijk 1</td><td>1</td><td>4</td></tr>
+    <tr><td>7</td><td>KOSK 1</td><td>1</td><td>4</td></tr>
+    <tr><td>8</td><td>Wetteren 2</td><td>1</td><td>4</td></tr>
+    <tr><td>9</td><td>Brasschaat 1</td><td>0</td><td>3.5</td></tr>
+    <tr><td>10</td><td>LSV-Chesspirant 1</td><td>0</td><td>3.5</td></tr>
+    <tr><td>11</td><td>Deurne 1</td><td>0</td><td>3</td></tr>
+    <tr class="own-team"><td>12</td><td>Jean Jaures Gent 1</td><td>0</td><td>3</td></tr>
   </tbody>
 </table>
 </div>
@@ -65,44 +64,42 @@ zonder punten. Wordt bijgewerkt na elke speeldag.</em></p>
 
 <div class="table-scroll">
 <table class="results">
-  <thead><tr><th>#</th><th>Ploeg</th><th>G</th><th>W</th><th>R</th><th>V</th><th>Bordpunten</th><th>Matchpunten</th></tr></thead>
+  <thead><tr><th>#</th><th>Ploeg</th><th>MP</th><th>BP</th></tr></thead>
   <tbody>
-    <tr><td>1</td><td>436 LSV-Chesspirant 4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>2</td><td>472 de Mercatel 3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>3</td><td>521 Tournai 2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>4</td><td>541 Leuze-En-Hainaut 3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>5</td><td>462 Zottegem 4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>6</td><td>303 KBSK Brugge 5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>7</td><td>422 MSV 2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>8</td><td>404 De 3 Torens Gent 1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>9</td><td>401 KGSRL 10</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>10</td><td>465 SK Artevelde 3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr class="own-team"><td>11</td><td>402 Jean Jaures Gent 2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>12</td><td>301 KOSK 4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+    <tr><td>1</td><td>de Mercatel 3</td><td>2</td><td>4</td></tr>
+    <tr><td>2</td><td>De 3 Torens Gent 1</td><td>2</td><td>3.5</td></tr>
+    <tr><td>3</td><td>KOSK 4</td><td>2</td><td>3.5</td></tr>
+    <tr><td>4</td><td>KBSK Brugge 5</td><td>2</td><td>2.5</td></tr>
+    <tr><td>5</td><td>Tournai 2</td><td>1</td><td>2</td></tr>
+    <tr><td>6</td><td>Leuze-En-Hainaut 3</td><td>1</td><td>2</td></tr>
+    <tr><td>7</td><td>KGSRL 10</td><td>1</td><td>2</td></tr>
+    <tr><td>8</td><td>SK Artevelde 3</td><td>1</td><td>2</td></tr>
+    <tr><td>9</td><td>MSV 2</td><td>0</td><td>1.5</td></tr>
+    <tr><td>10</td><td>LSV-Chesspirant 4</td><td>0</td><td>0.5</td></tr>
+    <tr><td>11</td><td>Zottegem 4</td><td>0</td><td>0.5</td></tr>
+    <tr class="own-team"><td>12</td><td>Jean Jaures Gent 2</td><td>0</td><td>0</td></tr>
   </tbody>
 </table>
 </div>
 
 <h2>Detailuitslagen</h2>
 
+{% assign items = site.results | sort: "sort_key" | reverse %}
+{% for item in items %}
+<h3>Ronde {{ item.round }} — {{ item.team }}</h3>
+<p>vs {{ item.opponent }} ({% if item.home_away == 'home' %}thuis{% else %}uit{% endif %}) — <strong>{{ item.score }}</strong></p>
+{% if item.boards %}
 <div class="table-scroll">
 <table class="results">
-  <thead>
-    <tr><th>Seizoen</th><th>Afdeling</th><th>Ronde</th><th>Tegenstander</th><th>Score</th></tr>
-  </thead>
+  <thead><tr><th>Bord</th><th>Thuis</th><th>Uitslag</th><th>Uit</th></tr></thead>
   <tbody>
-  {% assign items = site.results | sort: "sort_key" | reverse %}
-  {% for item in items %}
-    <tr>
-      <td>{{ item.season }}</td>
-      <td>{{ item.division }}</td>
-      <td>{{ item.round }}</td>
-      <td>{{ item.opponent }}</td>
-      <td>{{ item.score }}</td>
-    </tr>
+  {% for b in item.boards %}
+    <tr><td>{{ forloop.index }}</td><td>{{ b.home }}</td><td>{{ b.result }}</td><td>{{ b.away }}</td></tr>
   {% endfor %}
   </tbody>
 </table>
 </div>
+{% endif %}
+{% endfor %}
 
 <script src="{{ "/assets/js/highlight-next.js" | relative_url }}"></script>

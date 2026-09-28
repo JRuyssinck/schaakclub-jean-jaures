@@ -20,16 +20,29 @@ Front matter: `title`, `date`, `lang` (`nl`/`en`), `lang_ref` (shared slug), `ex
 
 ## Add a result
 
-Shown in the "Detailuitslagen"/"Detailed results" section of the Interclub page. Create one
-file — results aren't translated (season/opponent/score are language-neutral):
+Shown in the "Detailuitslagen"/"Detailed results" section of the Interclub page — one entry
+per team per round (both teams play the same round on the same date, so each gets its own
+file). Results aren't translated (names/scores are language-neutral); the page templates
+translate `home_away` (`"home"`/`"away"`) into NL/EN themselves. Create one file:
 
-    _results/<season>-r<round>.md
+    _results/<season>-r<round>-<division>.md
 
-Front matter: `season`, `division`, `round`, `opponent`, `score`, `sort_key`.
+Front matter: `season`, `division` (e.g. `"2A"`), `round`, `team` (e.g. `"Jean Jaures Gent 1"`),
+`opponent`, `home_away` (`"home"` or `"away"`), `score` (e.g. `"3 - 5"`), `sort_key`.
+
+Optionally add `boards` for the board-by-board breakdown (shown as a small table under the
+match summary) — a list of `{home, result, away}`, one per board, in board order:
+
+```yaml
+boards:
+  - home: "Player Name (2100)"
+    result: "1-0"
+    away: "Opponent Name (1950)"
+```
 
 `sort_key` controls display order (not `round`, which is ignored for sorting): format is
-`<season>-<round zero-padded to 2 digits>`, e.g. `2025-2026-01`. This lets results be sorted
-correctly across multiple seasons, newest first.
+`<season>-<round zero-padded to 2 digits>-<division>`, e.g. `2026-2027-01-2A`. This lets
+results be sorted correctly across multiple seasons and both teams, newest first.
 
 ## Add a gallery photo
 
