@@ -28,7 +28,48 @@ Reeksindeling voor het clubkampioenschap van dit seizoen.
 - Koen Vandevelde - Frank D'hooge
 - Senne Meuleman - Henri Lemahieu
 
-## Reeks A
+## Huidige stand
+
+<p><em>Bijgewerkt na ronde 1 (22/9).</em></p>
+
+<h3>Reeks A</h3>
+
+<div class="table-scroll">
+<table class="results">
+  <thead><tr><th>#</th><th>Naam</th><th>Gespeeld</th><th>Score</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>Gert Van Rij</td><td>1</td><td>1</td></tr>
+    <tr><td>2</td><td>Xander Pauwels</td><td>1</td><td>½</td></tr>
+    <tr><td>3</td><td>Tibo Maes</td><td>1</td><td>½</td></tr>
+    <tr><td>4</td><td>Yordi De Block</td><td>0</td><td>0</td></tr>
+    <tr><td>5</td><td>Eric Van De Wynkele</td><td>0</td><td>0</td></tr>
+    <tr><td>6</td><td>Lieven Van Der Straeten</td><td>1</td><td>0</td></tr>
+    <tr><td>7</td><td>Kurt Vanhauwaert</td><td>0</td><td>0</td></tr>
+    <tr><td>8</td><td>Gert Cant</td><td>0</td><td>0</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h3>Reeks B</h3>
+
+<div class="table-scroll">
+<table class="results">
+  <thead><tr><th>#</th><th>Naam</th><th>Gespeeld</th><th>Score</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>Oreste Lalli</td><td>1</td><td>1</td></tr>
+    <tr><td>2</td><td>Frank D'hooge</td><td>1</td><td>½</td></tr>
+    <tr><td>3</td><td>Joeri Ruyssinck</td><td>1</td><td>½</td></tr>
+    <tr><td>4</td><td>Koen Vandevelde</td><td>0</td><td>0</td></tr>
+    <tr><td>5</td><td>Harry Cattoir</td><td>0</td><td>0</td></tr>
+    <tr><td>6</td><td>Henri Lemahieu</td><td>1</td><td>0</td></tr>
+    <tr><td>7</td><td>Senne Meuleman</td><td>0</td><td>0</td></tr>
+  </tbody>
+</table>
+</div>
+
+## Reeksindeling (rating bij aanvang seizoen)
+
+<h3>Reeks A</h3>
 
 <div class="table-scroll">
 <table class="results">
@@ -46,7 +87,7 @@ Reeksindeling voor het clubkampioenschap van dit seizoen.
 </table>
 </div>
 
-## Reeks B
+<h3>Reeks B</h3>
 
 <div class="table-scroll">
 <table class="results">

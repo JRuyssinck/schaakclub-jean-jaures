@@ -28,7 +28,48 @@ Group draw for this season's club championship.
 - Koen Vandevelde - Frank D'hooge
 - Senne Meuleman - Henri Lemahieu
 
-## Group A
+## Current standings
+
+<p><em>Updated after round 1 (22/9).</em></p>
+
+<h3>Group A</h3>
+
+<div class="table-scroll">
+<table class="results">
+  <thead><tr><th>#</th><th>Name</th><th>Played</th><th>Score</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>Gert Van Rij</td><td>1</td><td>1</td></tr>
+    <tr><td>2</td><td>Xander Pauwels</td><td>1</td><td>½</td></tr>
+    <tr><td>3</td><td>Tibo Maes</td><td>1</td><td>½</td></tr>
+    <tr><td>4</td><td>Yordi De Block</td><td>0</td><td>0</td></tr>
+    <tr><td>5</td><td>Eric Van De Wynkele</td><td>0</td><td>0</td></tr>
+    <tr><td>6</td><td>Lieven Van Der Straeten</td><td>1</td><td>0</td></tr>
+    <tr><td>7</td><td>Kurt Vanhauwaert</td><td>0</td><td>0</td></tr>
+    <tr><td>8</td><td>Gert Cant</td><td>0</td><td>0</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h3>Group B</h3>
+
+<div class="table-scroll">
+<table class="results">
+  <thead><tr><th>#</th><th>Name</th><th>Played</th><th>Score</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>Oreste Lalli</td><td>1</td><td>1</td></tr>
+    <tr><td>2</td><td>Frank D'hooge</td><td>1</td><td>½</td></tr>
+    <tr><td>3</td><td>Joeri Ruyssinck</td><td>1</td><td>½</td></tr>
+    <tr><td>4</td><td>Koen Vandevelde</td><td>0</td><td>0</td></tr>
+    <tr><td>5</td><td>Harry Cattoir</td><td>0</td><td>0</td></tr>
+    <tr><td>6</td><td>Henri Lemahieu</td><td>1</td><td>0</td></tr>
+    <tr><td>7</td><td>Senne Meuleman</td><td>0</td><td>0</td></tr>
+  </tbody>
+</table>
+</div>
+
+## Group draw (rating at start of season)
+
+<h3>Group A</h3>
 
 <div class="table-scroll">
 <table class="results">
@@ -46,7 +87,7 @@ Group draw for this season's club championship.
 </table>
 </div>
 
-## Group B
+<h3>Group B</h3>
 
 <div class="table-scroll">
 <table class="results">
