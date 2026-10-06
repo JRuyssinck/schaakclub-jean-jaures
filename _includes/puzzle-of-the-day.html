@@ -1,9 +1,9 @@
-<div class="puzzle" data-lang="{{ page.lang | default: "nl" }}">
-  <h2>{% if page.lang == 'en' %}Position of the day{% else %}Stelling van de dag{% endif %}</h2>
-  <div class="chessboard" id="puzzle-board" role="img" aria-label="{% if page.lang == 'en' %}Chess position{% else %}Schaakstelling{% endif %}"></div>
-  <p class="puzzle-caption" id="puzzle-caption"></p>
-  <button type="button" class="button" id="puzzle-reveal">{% if page.lang == 'en' %}Show solution{% else %}Toon oplossing{% endif %}</button>
-  <p class="puzzle-solution" id="puzzle-solution" hidden></p>
+<div class="puzzle">
+  <h2>{% if page.lang == 'en' %}Puzzle of the day{% else %}Puzzel van de dag{% endif %}</h2>
+  <iframe class="puzzle-frame" id="puzzle-frame"
+          src="https://lichess.org/training/frame?theme=brown&bg=light"
+          title="{% if page.lang == 'en' %}Lichess daily puzzle{% else %}Lichess puzzel van de dag{% endif %}"
+          loading="lazy"></iframe>
+  <p class="puzzle-credit">{% if page.lang == 'en' %}Daily puzzle via{% else %}Dagelijkse puzzel via{% endif %} <a href="https://lichess.org/training" rel="noopener">lichess.org</a></p>
 </div>
-<script type="application/json" id="puzzle-data">{{ site.data.puzzles | jsonify }}</script>
 <script src="{{ "/assets/js/puzzle-of-the-day.js" | relative_url }}"></script>
