@@ -1,9 +1,16 @@
-<div class="puzzle">
+<div class="puzzle"
+     data-lang="{{ page.lang | default: 'nl' }}"
+     data-piece-base="{{ '/assets/img/chesspieces/wikipedia/' | relative_url }}">
   <h2>{% if page.lang == 'en' %}Puzzle of the day{% else %}Puzzel van de dag{% endif %}</h2>
-  <iframe class="puzzle-frame" id="puzzle-frame"
-          src="https://lichess.org/training/frame?theme=brown&bg=light"
-          title="{% if page.lang == 'en' %}Lichess daily puzzle{% else %}Lichess puzzel van de dag{% endif %}"
-          loading="lazy"></iframe>
+  <div id="puzzle-board" class="puzzle-board"></div>
+  <p class="puzzle-status" id="puzzle-status" aria-live="polite"></p>
+  <p class="puzzle-controls">
+    <button type="button" class="button" id="puzzle-reset" hidden>{% if page.lang == 'en' %}Retry{% else %}Opnieuw{% endif %}</button>
+  </p>
   <p class="puzzle-credit">{% if page.lang == 'en' %}Daily puzzle via{% else %}Dagelijkse puzzel via{% endif %} <a href="https://lichess.org/training" rel="noopener">lichess.org</a></p>
 </div>
-<script src="{{ "/assets/js/puzzle-of-the-day.js" | relative_url }}"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css" integrity="sha512-TU/clvRaSqKB43MX6dvJPEWV8tEGDTbmT4mdxTs6DSYsBY9zKmiw4Qeykp0nS10ndH14HRNG2VWN+IjiMfA17Q==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.js" integrity="sha512-WfASs5HtTgTL/eZsLaOftSN9wMQl7WZGlU5UiKx/yxTViMfGh9whWRwKAC27qH8VtZJqSMqDdbq2uUb1tY3jvQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/chess.js@0.12.0/chess.js" integrity="sha512-LVaWbRl5YcZ2sKeoSDohbL3rSxsDK8y+O0IqLBnrd+z1U4zFwNg++cWfkLsOljysASsAuWMpY/ar0mWTIZ0nsw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="{{ '/assets/js/puzzle-of-the-day.js' | relative_url }}"></script>

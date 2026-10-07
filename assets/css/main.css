@@ -105,7 +105,9 @@ a { color: var(--color-accent); text-decoration: underline; }
 .month-cell li { padding: .15rem 0; }
 
 .puzzle { max-width: 400px; margin: 2rem auto; text-align: center; }
-.puzzle-frame { width: 100%; max-width: 400px; height: 444px; border: 0; }
+.puzzle-board { width: 100%; max-width: 400px; margin: 0 auto; }
+.puzzle-status { margin-top: .75rem; min-height: 1.5em; font-weight: 600; }
+.puzzle-controls { margin-top: .5rem; }
 .puzzle-credit { margin-top: .5rem; font-size: .85rem; color: var(--color-text-soft); }
 
 .table-scroll { overflow-x: auto; margin: 1rem 0; }
