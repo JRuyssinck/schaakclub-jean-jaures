@@ -38,7 +38,7 @@ Group draw for this season's club championship.
 
 ## Current standings
 
-<p><em>Updated after round 3 (6/10). The Meuleman-Lemahieu game from 29/9 was postponed. No club event on 13/10 (home round in interclub competition).</em></p>
+<p><em>Updated after round 3 (6/10). The Meuleman-Lemahieu game from 29/9 was postponed.</em></p>
 
 <h3>Group A</h3>
 

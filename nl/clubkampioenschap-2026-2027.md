@@ -38,7 +38,7 @@ Reeksindeling voor het clubkampioenschap van dit seizoen.
 
 ## Huidige stand
 
-<p><em>Bijgewerkt na ronde 3 (6/10). De partij Meuleman-Lemahieu van 29/9 werd uitgesteld. Geen clubavond op 13/10 (thuisronde in de interclub).</em></p>
+<p><em>Bijgewerkt na ronde 3 (6/10). De partij Meuleman-Lemahieu van 29/9 werd uitgesteld.</em></p>
 
 <h3>Reeks A</h3>
 

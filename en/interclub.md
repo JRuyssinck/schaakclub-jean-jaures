@@ -36,7 +36,7 @@ for the location. Away matches are played at the opponent's venue.
 
 <h2>Standings</h2>
 
-<p><em>Updated after round 2.</em></p>
+<p><em>Updated after all played rounds.</em></p>
 
 <h3>Division 2A</h3>
 
@@ -44,18 +44,18 @@ for the location. Away matches are played at the opponent's venue.
 <table class="results">
   <thead><tr><th>#</th><th>Team</th><th>MP</th><th>BP</th></tr></thead>
   <tbody>
-    <tr><td>1</td><td>de Mercatel 1</td><td>2</td><td>5</td></tr>
-    <tr><td>2</td><td>KGSRL 2</td><td>2</td><td>5</td></tr>
-    <tr><td>3</td><td>Borgerhout 1</td><td>2</td><td>4.5</td></tr>
-    <tr><td>4</td><td>Brussels 1</td><td>2</td><td>4.5</td></tr>
-    <tr><td>5</td><td>Zottegem 1</td><td>1</td><td>4</td></tr>
-    <tr><td>6</td><td>Gambiet Opwijk 1</td><td>1</td><td>4</td></tr>
-    <tr><td>7</td><td>KOSK 1</td><td>1</td><td>4</td></tr>
-    <tr><td>8</td><td>Wetteren 2</td><td>1</td><td>4</td></tr>
-    <tr><td>9</td><td>Brasschaat 1</td><td>0</td><td>3.5</td></tr>
-    <tr><td>10</td><td>LSV-Chesspirant 1</td><td>0</td><td>3.5</td></tr>
-    <tr><td>11</td><td>Deurne 1</td><td>0</td><td>3</td></tr>
-    <tr class="own-team"><td>12</td><td>Jean Jaures Gent 1</td><td>1</td><td>8</td></tr>
+    <tr><td>1</td><td>KGSRL 2</td><td>4</td><td>12</td></tr>
+    <tr><td>2</td><td>Borgerhout 1</td><td>4</td><td>9</td></tr>
+    <tr><td>3</td><td>Zottegem 1</td><td>3</td><td>10</td></tr>
+    <tr><td>4</td><td>Gambiet Opwijk 1</td><td>3</td><td>10</td></tr>
+    <tr><td>5</td><td>KOSK 1</td><td>3</td><td>9.5</td></tr>
+    <tr><td>6</td><td>de Mercatel 1</td><td>2</td><td>8.5</td></tr>
+    <tr class="own-team"><td>7</td><td>Jean Jaures Gent 1</td><td>2</td><td>8</td></tr>
+    <tr><td>8</td><td>Brussels 1</td><td>2</td><td>5.5</td></tr>
+    <tr><td>9</td><td>Wetteren 2</td><td>1</td><td>6</td></tr>
+    <tr><td>10</td><td>Brasschaat 1</td><td>0</td><td>6.5</td></tr>
+    <tr><td>11</td><td>LSV-Chesspirant 1</td><td>0</td><td>6</td></tr>
+    <tr><td>12</td><td>Deurne 1</td><td>0</td><td>5</td></tr>
   </tbody>
 </table>
 </div>
@@ -66,17 +66,17 @@ for the location. Away matches are played at the opponent's venue.
 <table class="results">
   <thead><tr><th>#</th><th>Team</th><th>MP</th><th>BP</th></tr></thead>
   <tbody>
-    <tr><td>1</td><td>de Mercatel 3</td><td>2</td><td>4</td></tr>
-    <tr><td>2</td><td>De 3 Torens Gent 1</td><td>2</td><td>3.5</td></tr>
-    <tr><td>3</td><td>KOSK 4</td><td>2</td><td>3.5</td></tr>
-    <tr><td>4</td><td>KBSK Brugge 5</td><td>2</td><td>2.5</td></tr>
-    <tr><td>5</td><td>Tournai 2</td><td>1</td><td>2</td></tr>
-    <tr><td>6</td><td>Leuze-En-Hainaut 3</td><td>1</td><td>2</td></tr>
-    <tr><td>7</td><td>KGSRL 10</td><td>1</td><td>2</td></tr>
-    <tr><td>8</td><td>SK Artevelde 3</td><td>1</td><td>2</td></tr>
-    <tr><td>9</td><td>MSV 2</td><td>0</td><td>1.5</td></tr>
-    <tr><td>10</td><td>LSV-Chesspirant 4</td><td>0</td><td>0.5</td></tr>
-    <tr><td>11</td><td>Zottegem 4</td><td>0</td><td>0.5</td></tr>
+    <tr><td>1</td><td>De 3 Torens Gent 1</td><td>4</td><td>6</td></tr>
+    <tr><td>2</td><td>Tournai 2</td><td>3</td><td>5.5</td></tr>
+    <tr><td>3</td><td>KOSK 4</td><td>3</td><td>5.5</td></tr>
+    <tr><td>4</td><td>SK Artevelde 3</td><td>3</td><td>5</td></tr>
+    <tr><td>5</td><td>de Mercatel 3</td><td>2</td><td>4.5</td></tr>
+    <tr><td>6</td><td>LSV-Chesspirant 4</td><td>2</td><td>4</td></tr>
+    <tr><td>7</td><td>KBSK Brugge 5</td><td>2</td><td>4</td></tr>
+    <tr><td>8</td><td>KGSRL 10</td><td>2</td><td>4</td></tr>
+    <tr><td>9</td><td>MSV 2</td><td>1</td><td>3.5</td></tr>
+    <tr><td>10</td><td>Leuze-En-Hainaut 3</td><td>1</td><td>3</td></tr>
+    <tr><td>11</td><td>Zottegem 4</td><td>1</td><td>2.5</td></tr>
     <tr class="own-team"><td>12</td><td>Jean Jaures Gent 2</td><td>0</td><td>0.5</td></tr>
   </tbody>
 </table>
