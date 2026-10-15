@@ -16,9 +16,9 @@ Kom gerust eens langs op een [clubavond]({{ "/nl/schedule/" | relative_url }}), 
 
 ## Binnenkort
 
-- **Clubkampioenschap:** eerstvolgende partijen op dinsdag 29/9 —
-  [bekijk de paringen]({{ "/nl/clubkampioenschap-2026-2027/" | relative_url }}).
-- **Interclub:** eerstvolgende wedstrijd op zondag 11/10, thuis —
+- **Clubkampioenschap:** eerstvolgende partijen op dinsdag 20/10 —
+  [bekijk de resultaten]({{ "/nl/clubkampioenschap-2026-2027/" | relative_url }}).
+- **Interclub:** eerstvolgende wedstrijd op zondag 15/11, uit —
   [bekijk de kalender]({{ "/nl/interclub/" | relative_url }}).
 
 {% include puzzle-of-the-day.html %}

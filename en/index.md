@@ -16,9 +16,9 @@ Come by for a [club evening]({{ "/en/schedule/" | relative_url }}), or read more
 
 ## Coming up
 
-- **Club Championship:** next games on Tuesday 29/9 —
-  [see the pairings]({{ "/en/club-championship-2026-2027/" | relative_url }}).
-- **Interclub:** next match on Sunday 11/10, at home —
+- **Club Championship:** next games on Tuesday 20/10 —
+  [see the results]({{ "/en/club-championship-2026-2027/" | relative_url }}).
+- **Interclub:** next match on Sunday 15/11, away —
   [see the calendar]({{ "/en/interclub/" | relative_url }}).
 
 {% include puzzle-of-the-day.html %}

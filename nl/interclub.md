@@ -36,7 +36,7 @@ voor de locatie. Bij uitwedstrijden speel je bij de tegenstander.
 
 <h2>Stand</h2>
 
-<p><em>Bijgewerkt na ronde 1.</em></p>
+<p><em>Bijgewerkt na ronde 2.</em></p>
 
 <h3>Afdeling 2A</h3>
 
@@ -55,7 +55,7 @@ voor de locatie. Bij uitwedstrijden speel je bij de tegenstander.
     <tr><td>9</td><td>Brasschaat 1</td><td>0</td><td>3.5</td></tr>
     <tr><td>10</td><td>LSV-Chesspirant 1</td><td>0</td><td>3.5</td></tr>
     <tr><td>11</td><td>Deurne 1</td><td>0</td><td>3</td></tr>
-    <tr class="own-team"><td>12</td><td>Jean Jaures Gent 1</td><td>0</td><td>3</td></tr>
+    <tr class="own-team"><td>12</td><td>Jean Jaures Gent 1</td><td>1</td><td>8</td></tr>
   </tbody>
 </table>
 </div>
@@ -77,7 +77,7 @@ voor de locatie. Bij uitwedstrijden speel je bij de tegenstander.
     <tr><td>9</td><td>MSV 2</td><td>0</td><td>1.5</td></tr>
     <tr><td>10</td><td>LSV-Chesspirant 4</td><td>0</td><td>0.5</td></tr>
     <tr><td>11</td><td>Zottegem 4</td><td>0</td><td>0.5</td></tr>
-    <tr class="own-team"><td>12</td><td>Jean Jaures Gent 2</td><td>0</td><td>0</td></tr>
+    <tr class="own-team"><td>12</td><td>Jean Jaures Gent 2</td><td>0</td><td>0.5</td></tr>
   </tbody>
 </table>
 </div>
