@@ -26,21 +26,19 @@ Reeksindeling voor het clubkampioenschap van dit seizoen.
 - Koen Vandevelde - Frank D'hooge: ½ - ½
 - Senne Meuleman - Henri Lemahieu: *uitgesteld*
 
-## Eerstvolgende partijen
-
-### Dinsdag 6/10
+## Uitslagen 6/10
 
 **Reeks A**
-- Tibo Maes - Lieven Van Der Straeten
-- Eric Van De Wynkele - Kurt Vanhauwaert
+- Yordi De Block - Kurt Vanhauwaert: 1 - 0
+- Tibo Maes - Lieven Van Der Straeten: 0 - 1
 
 **Reeks B**
-- Harry Cattoir - Oreste Lalli
-- Senne Meuleman - Joeri Ruyssinck
+- Harry Cattoir - Oreste Lalli: 1 - 0
+- Senne Meuleman - Joeri Ruyssinck: 1 - 0
 
 ## Huidige stand
 
-<p><em>Bijgewerkt na ronde 2 (29/9). De partij Meuleman-Lemahieu van 29/9 werd uitgesteld.</em></p>
+<p><em>Bijgewerkt na ronde 3 (6/10). De partij Meuleman-Lemahieu van 29/9 werd uitgesteld. Geen clubavond op 13/10 (thuisronde in de interclub).</em></p>
 
 <h3>Reeks A</h3>
 
@@ -49,12 +47,12 @@ Reeksindeling voor het clubkampioenschap van dit seizoen.
   <thead><tr><th>#</th><th>Naam</th><th>Gespeeld</th><th>Score</th></tr></thead>
   <tbody>
     <tr><td>1</td><td>Xander Pauwels</td><td>2</td><td>1½</td></tr>
-    <tr><td>2</td><td>Gert Van Rij</td><td>1</td><td>1</td></tr>
-    <tr><td>3</td><td>Kurt Vanhauwaert</td><td>1</td><td>1</td></tr>
-    <tr><td>4</td><td>Tibo Maes</td><td>1</td><td>½</td></tr>
-    <tr><td>5</td><td>Yordi De Block</td><td>1</td><td>0</td></tr>
-    <tr><td>6</td><td>Eric Van De Wynkele</td><td>0</td><td>0</td></tr>
-    <tr><td>7</td><td>Lieven Van Der Straeten</td><td>1</td><td>0</td></tr>
+    <tr><td>2</td><td>Lieven Van Der Straeten</td><td>2</td><td>1</td></tr>
+    <tr><td>3</td><td>Gert Van Rij</td><td>1</td><td>1</td></tr>
+    <tr><td>4</td><td>Kurt Vanhauwaert</td><td>2</td><td>1</td></tr>
+    <tr><td>5</td><td>Yordi De Block</td><td>2</td><td>1</td></tr>
+    <tr><td>6</td><td>Tibo Maes</td><td>2</td><td>½</td></tr>
+    <tr><td>7</td><td>Eric Van De Wynkele</td><td>0</td><td>0</td></tr>
     <tr><td>8</td><td>Gert Cant</td><td>1</td><td>0</td></tr>
   </tbody>
 </table>
@@ -67,12 +65,12 @@ Reeksindeling voor het clubkampioenschap van dit seizoen.
   <thead><tr><th>#</th><th>Naam</th><th>Gespeeld</th><th>Score</th></tr></thead>
   <tbody>
     <tr><td>1</td><td>Frank D'hooge</td><td>2</td><td>1</td></tr>
-    <tr><td>2</td><td>Oreste Lalli</td><td>1</td><td>1</td></tr>
-    <tr><td>3</td><td>Koen Vandevelde</td><td>1</td><td>½</td></tr>
-    <tr><td>4</td><td>Joeri Ruyssinck</td><td>1</td><td>½</td></tr>
-    <tr><td>5</td><td>Harry Cattoir</td><td>0</td><td>0</td></tr>
-    <tr><td>6</td><td>Henri Lemahieu</td><td>1</td><td>0</td></tr>
-    <tr><td>7</td><td>Senne Meuleman</td><td>0</td><td>0</td></tr>
+    <tr><td>2</td><td>Senne Meuleman</td><td>1</td><td>1</td></tr>
+    <tr><td>3</td><td>Oreste Lalli</td><td>2</td><td>1</td></tr>
+    <tr><td>4</td><td>Harry Cattoir</td><td>1</td><td>1</td></tr>
+    <tr><td>5</td><td>Koen Vandevelde</td><td>1</td><td>½</td></tr>
+    <tr><td>6</td><td>Joeri Ruyssinck</td><td>2</td><td>½</td></tr>
+    <tr><td>7</td><td>Henri Lemahieu</td><td>1</td><td>0</td></tr>
   </tbody>
 </table>
 </div>

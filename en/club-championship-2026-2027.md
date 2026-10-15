@@ -26,21 +26,19 @@ Group draw for this season's club championship.
 - Koen Vandevelde - Frank D'hooge: ½ - ½
 - Senne Meuleman - Henri Lemahieu: *postponed*
 
-## Upcoming games
-
-### Tuesday 6/10
+## Results 6/10
 
 **Group A**
-- Tibo Maes - Lieven Van Der Straeten
-- Eric Van De Wynkele - Kurt Vanhauwaert
+- Yordi De Block - Kurt Vanhauwaert: 1 - 0
+- Tibo Maes - Lieven Van Der Straeten: 0 - 1
 
 **Group B**
-- Harry Cattoir - Oreste Lalli
-- Senne Meuleman - Joeri Ruyssinck
+- Harry Cattoir - Oreste Lalli: 1 - 0
+- Senne Meuleman - Joeri Ruyssinck: 1 - 0
 
 ## Current standings
 
-<p><em>Updated after round 2 (29/9). The Meuleman-Lemahieu game from 29/9 was postponed.</em></p>
+<p><em>Updated after round 3 (6/10). The Meuleman-Lemahieu game from 29/9 was postponed. No club event on 13/10 (home round in interclub competition).</em></p>
 
 <h3>Group A</h3>
 
@@ -49,12 +47,12 @@ Group draw for this season's club championship.
   <thead><tr><th>#</th><th>Name</th><th>Played</th><th>Score</th></tr></thead>
   <tbody>
     <tr><td>1</td><td>Xander Pauwels</td><td>2</td><td>1½</td></tr>
-    <tr><td>2</td><td>Gert Van Rij</td><td>1</td><td>1</td></tr>
-    <tr><td>3</td><td>Kurt Vanhauwaert</td><td>1</td><td>1</td></tr>
-    <tr><td>4</td><td>Tibo Maes</td><td>1</td><td>½</td></tr>
-    <tr><td>5</td><td>Yordi De Block</td><td>1</td><td>0</td></tr>
-    <tr><td>6</td><td>Eric Van De Wynkele</td><td>0</td><td>0</td></tr>
-    <tr><td>7</td><td>Lieven Van Der Straeten</td><td>1</td><td>0</td></tr>
+    <tr><td>2</td><td>Lieven Van Der Straeten</td><td>2</td><td>1</td></tr>
+    <tr><td>3</td><td>Gert Van Rij</td><td>1</td><td>1</td></tr>
+    <tr><td>4</td><td>Kurt Vanhauwaert</td><td>2</td><td>1</td></tr>
+    <tr><td>5</td><td>Yordi De Block</td><td>2</td><td>1</td></tr>
+    <tr><td>6</td><td>Tibo Maes</td><td>2</td><td>½</td></tr>
+    <tr><td>7</td><td>Eric Van De Wynkele</td><td>0</td><td>0</td></tr>
     <tr><td>8</td><td>Gert Cant</td><td>1</td><td>0</td></tr>
   </tbody>
 </table>
@@ -67,12 +65,12 @@ Group draw for this season's club championship.
   <thead><tr><th>#</th><th>Name</th><th>Played</th><th>Score</th></tr></thead>
   <tbody>
     <tr><td>1</td><td>Frank D'hooge</td><td>2</td><td>1</td></tr>
-    <tr><td>2</td><td>Oreste Lalli</td><td>1</td><td>1</td></tr>
-    <tr><td>3</td><td>Koen Vandevelde</td><td>1</td><td>½</td></tr>
-    <tr><td>4</td><td>Joeri Ruyssinck</td><td>1</td><td>½</td></tr>
-    <tr><td>5</td><td>Harry Cattoir</td><td>0</td><td>0</td></tr>
-    <tr><td>6</td><td>Henri Lemahieu</td><td>1</td><td>0</td></tr>
-    <tr><td>7</td><td>Senne Meuleman</td><td>0</td><td>0</td></tr>
+    <tr><td>2</td><td>Senne Meuleman</td><td>1</td><td>1</td></tr>
+    <tr><td>3</td><td>Oreste Lalli</td><td>2</td><td>1</td></tr>
+    <tr><td>4</td><td>Harry Cattoir</td><td>1</td><td>1</td></tr>
+    <tr><td>5</td><td>Koen Vandevelde</td><td>1</td><td>½</td></tr>
+    <tr><td>6</td><td>Joeri Ruyssinck</td><td>2</td><td>½</td></tr>
+    <tr><td>7</td><td>Henri Lemahieu</td><td>1</td><td>0</td></tr>
   </tbody>
 </table>
 </div>
