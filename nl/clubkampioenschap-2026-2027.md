@@ -6,6 +6,16 @@ permalink: /nl/clubkampioenschap-2026-2027/
 ---
 Reeksindeling voor het clubkampioenschap van dit seizoen.
 
+## Planning 20/10
+
+**Reeks A**
+- Xander Pauwels - Gert Cant
+- Gert Van Rij - Lieven Van Der Straeten
+
+**Reeks B**
+- Oreste Lalli - Harry Cattoir
+- Joeri Ruyssinck - Koen Vandevelde
+
 ## Uitslagen 22/9
 
 **Reeks A**

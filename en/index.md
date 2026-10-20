@@ -18,6 +18,8 @@ Come by for a [club evening]({{ "/en/schedule/" | relative_url }}), or read more
 
 - **Club Championship:** next games on Tuesday 20/10 —
   [see the results]({{ "/en/club-championship-2026-2027/" | relative_url }}).
+  - Group A: Xander Pauwels - Gert Cant, Gert Van Rij - Lieven Van Der Straeten
+  - Group B: Oreste Lalli - Harry Cattoir, Joeri Ruyssinck - Koen Vandevelde
 - **Interclub:** next match on Sunday 15/11, away —
   [see the calendar]({{ "/en/interclub/" | relative_url }}).
 

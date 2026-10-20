@@ -6,6 +6,16 @@ permalink: /en/club-championship-2026-2027/
 ---
 Group draw for this season's club championship.
 
+## Schedule 20/10
+
+**Group A**
+- Xander Pauwels - Gert Cant
+- Gert Van Rij - Lieven Van Der Straeten
+
+**Group B**
+- Oreste Lalli - Harry Cattoir
+- Joeri Ruyssinck - Koen Vandevelde
+
 ## Results 22/9
 
 **Group A**

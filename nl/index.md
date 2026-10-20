@@ -18,6 +18,8 @@ Kom gerust eens langs op een [clubavond]({{ "/nl/schedule/" | relative_url }}), 
 
 - **Clubkampioenschap:** eerstvolgende partijen op dinsdag 20/10 —
   [bekijk de resultaten]({{ "/nl/clubkampioenschap-2026-2027/" | relative_url }}).
+  - Reeks A: Xander Pauwels - Gert Cant, Gert Van Rij - Lieven Van Der Straeten
+  - Reeks B: Oreste Lalli - Harry Cattoir, Joeri Ruyssinck - Koen Vandevelde
 - **Interclub:** eerstvolgende wedstrijd op zondag 15/11, uit —
   [bekijk de kalender]({{ "/nl/interclub/" | relative_url }}).
 
